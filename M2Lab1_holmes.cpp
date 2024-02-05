@@ -10,13 +10,13 @@ using namespace std;
 int main() {
   // Take 1 - just a rectangle
   // Declare variables
-  double lenght, width;
+  double length, width;
   double area;
   // Ask for user input 
   cout << "Length? ";
   cin >> length;
   cout << "width? ";
-  cin << width;
+  cin >> width;
 
   // Do calculations 
   area = length * width;
