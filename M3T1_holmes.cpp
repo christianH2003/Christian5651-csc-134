@@ -28,6 +28,15 @@ int main()
     // print the areas 
     cout << "The area of the first area is: " << area1 << endl;
     cout << "The area of the second area is: " << area2 << endl;
+    if (area1 > area2 ) {
+        cout << "The first area is greater";
+    }
+    if (area1 < area2) {
+        cout << "The second area is greater";
+    }
+    if ( area1 == area2){
+        cout << "The areas are the same";
+    }
 
     return 0;
 }
