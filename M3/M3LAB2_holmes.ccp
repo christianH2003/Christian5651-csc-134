@@ -8,6 +8,13 @@ useing namespace std;
 
 int main()
 {
-    \\ declare variables 
-    double 
+    // declare variables 
+    double A;
+    double B;
+    double C;
+    Double D;
+    Double F;
+
+    //ask the question 
+    cout << "Please enter number grade: " 
 }
